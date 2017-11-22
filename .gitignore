@@ -1,0 +1,6 @@
+checkpoint
+data
+*.pyc
+*.log
+submit.json
+*.swp
